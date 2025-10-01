@@ -1,7 +1,5 @@
-<img width="939" height="1464" alt="image" src="https://github.com/user-attachments/assets/a8c3ac51-a44a-4dbb-a20b-35a2cce92167" /># Shiye
-研究AI资讯，拆解热点背后的逻辑，用通俗语言讲AI。  玩转AI生图、生视频，把复杂工具变成人人能用的创作乐高。  关注广告与传播，用AI思维探索新的商业表达方式。
 # 十页 Shiye  
-
+研究AI资讯，拆解热点背后的逻辑，用通俗语言讲AI。  玩转AI生图、生视频，把复杂工具变成人人能用的创作乐高。  关注广告与传播，用AI思维探索新的商业表达方式。
 > “用 AI 拆解世界，也用 AI 重建表达。”
 
 # 更新
