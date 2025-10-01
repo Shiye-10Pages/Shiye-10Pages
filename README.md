@@ -4,6 +4,7 @@
 
 # 更新
 Sora 模型交流学习群，邀请码互通有无。
+
 <img width="370" height="580" alt="image" src="https://github.com/user-attachments/assets/a469d276-60c6-4010-9958-24dc3baecdff" />
 
 ---
