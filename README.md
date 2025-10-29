@@ -3,9 +3,10 @@
 > “用 AI 拆解世界，也用 AI 重建表达。”
 
 # 更新
-Sora 模型交流学习群，邀请码互通有无。
+加微进入AI交流学习群，邀请码互通有无。
+Sora 2/Flowith。。。
 
-<img width="370" height="580" alt="image" src="https://github.com/user-attachments/assets/a469d276-60c6-4010-9958-24dc3baecdff" />
+<img width="150" height="150" alt="十页个人码" src="https://github.com/user-attachments/assets/ed8acbcd-40e8-4277-ad17-53828c95aded" />
 
 ---
 
